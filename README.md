@@ -1,7 +1,13 @@
 # Connect-Four
 
-The Classic! Want to go down the memory lane and have a Connect Four compeition with your friends/family? I got you!
-I created a Connect Four App that utilizes Collection views, enums, UIButtons, and game logic to get the whole experience!
+#### The Classic! Want to go down the memory lane and have a Connect Four compeition with your friends/family? I got you! <br>
+I created a Connect Four App that utilizes:
+- Collection views
+- Enums
+- UIButtons
+- Game logic
+
+Get the whole experience!
 
 ### Gif#1: Yellow Dot winning vertically
 #### Used 
