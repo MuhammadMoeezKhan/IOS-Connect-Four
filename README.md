@@ -1,6 +1,6 @@
 # Connect-Four
 
-#### The Classic! Want to go down the memory lane and have a Connect Four compeition with your friends/family? I got you! <br>
+#### The Classic! Want to go down memory lane and have a Connect Four competition with your friends/family? I got you! <br>
 I created a Connect Four App that utilizes:
 - Collection views
 - Enums
