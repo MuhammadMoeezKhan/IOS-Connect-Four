@@ -18,7 +18,7 @@ Get the whole experience!
 <br>
 
 ### Gif#2: Red Dor winning diagonally
-#### Desinged
+#### Designed
 <p align="center">
   <img src="http://g.recordit.co/S9RHuqNIpw.gif" alt="animated" />
 </p>
